@@ -33,6 +33,14 @@ I am continuously improving myself and committed to becoming a highly skilled **
 - 🎯 OSCP — Offensive Security Certified Professional
 - 📚 Constantly expanding knowledge in penetration testing, vulnerability assessment, and ethical hacking
 
+------
+
+## 🏆 Certificates
+
+### Cyber School — AI Seminar
+![Cyber School Certificate](cyberschool-sertifikat.jpg)
+*Süni İntellekt Seminarı — 30 May 2026*
+
 ---
 
 *Thanks for visiting my profile! The journey has just begun.* 🚀🔐
